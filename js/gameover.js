@@ -86,4 +86,4 @@ function GameOver() {
     drawSpaceship(canvas.width / 2, 280 + floatY, 1.2);
 
     restartBtn.style.display = "block";
-}s
+}
